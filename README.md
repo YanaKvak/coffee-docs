@@ -2,7 +2,7 @@
 
 Мобильное приложение для заказа кофе и управления бонусной программой кофейни.
 
-![Логотип](https://via.placeholder.com/200x100/8B4513/FFFFFF?text=CoffeeMan)
+<img src="https://avatars.mds.yandex.net/i?id=7d3342c09e5a6921e3208548e654bb92_l-10234623-images-thumbs&n=13" width="250" height="300" alt="Логотип КофеМан">
 
 ## Быстрый старт
 
